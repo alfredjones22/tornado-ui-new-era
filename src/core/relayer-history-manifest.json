@@ -1,0 +1,55 @@
+{
+  "chainId": 1,
+  "address": "0x58e8dcc13be9780fc42e8723d8ead4cf46943df2",
+  "chunks": [
+    {
+      "fromBlock": "0xd843c9",
+      "toBlock": "0xe3cc21",
+      "file": "51bf9bf24837d5e0b4980707a22428f407d4d350115bc0c067da369e868de3e8.jsonl.gz",
+      "sha256": "05dd0cb82891a6db54052dc588fe64258012d7ef2b2b24ec97ecc4b6ee1cb2df",
+      "jsonBytes": 10485351
+    },
+    {
+      "fromBlock": "0xe3cc21",
+      "toBlock": "0x10aca70",
+      "file": "7703e7390949a3ab8575d9e7e6cbbe34a64c2cd7196b9c35d5b4a440fc05ab62.jsonl.gz",
+      "sha256": "39c3d201749963fab1b364e609334746de0a4f6689cdcba0a27039093b77f548",
+      "jsonBytes": 10485564
+    },
+    {
+      "fromBlock": "0x10aca70",
+      "toBlock": "0x1543dcb",
+      "file": "06fec9421a4a3fa87adf9ee2a59ec4850602e79cb794d7883c31b091da73f273.jsonl.gz",
+      "sha256": "25719454eec8b2cc82babbe4ceba2e01c99533b64b0976f15e38944f994ce68e",
+      "jsonBytes": 10485698
+    },
+    {
+      "fromBlock": "0x1543dcb",
+      "toBlock": "0x16c5361",
+      "file": "50adf6acb21030198454142fcd677f4fb98d3ac515085b1d3849d3d9afa71252.jsonl.gz",
+      "sha256": "baec1698aea9fa5361a446f98de6ba67fda085019b24ff35de3e74ea014bc3a3",
+      "jsonBytes": 10485702
+    },
+    {
+      "fromBlock": "0x16c5361",
+      "toBlock": "0x17f3557",
+      "file": "13b2b514175e6f905a897f47ec3506709177599e8d4b50c8d4c02276633cc3c1.jsonl.gz",
+      "sha256": "8d396f376adfd60652fd482c3311d52d630e78dac53c2e9fa476e476e04e530d",
+      "jsonBytes": 10485596
+    },
+    {
+      "fromBlock": "0x17f3557",
+      "toBlock": "0x18b02d3",
+      "file": "93ad9fe7716c114bc2986c5b10f3244e9a15870d472f96f254fe59d073d42dde.jsonl.gz",
+      "sha256": "641f04ed825e7737787d391d49e89c3e5cb0e9ea31807ef875b3ecbca7d07c5f",
+      "jsonBytes": 10485754
+    },
+    {
+      "fromBlock": "0x18b02d3",
+      "toBlock": "0x1917867",
+      "file": "36f55320855e51dbaa432581d458f3ec307617c504fa892be328cf7af454cb73.jsonl.gz",
+      "sha256": "b42c2e1d0a9b43e2f192437a40210bcc390b9b394123f0de2860aad44be812bc",
+      "jsonBytes": 5367124
+    }
+  ]
+}

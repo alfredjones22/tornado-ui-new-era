@@ -1,0 +1,35 @@
+{
+  "name": "tornado-ui-new-era",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:offline": "node scripts/prepare-offline-assets.mjs",
+    "dev": "vite --host 127.0.0.1",
+    "build": "vue-tsc --noEmit && vite build",
+    "build:ipfs": "npm run build && node scripts/check-ipfs-build.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "typecheck": "vue-tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@kohaku-eth/plugins": "0.0.1-alpha.20",
+    "@kohaku-eth/provider": "0.1.0-alpha.14",
+    "@kohaku-eth/tornado-cash": "0.1.0-alpha.37",
+    "jspdf": "4.2.1",
+    "micro-zk-proofs": "0.3.1",
+    "viem": "2.55.19",
+    "vue": "3.5.44"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@vitejs/plugin-vue": "6.0.10",
+    "typescript": "~5.9.3",
+    "vite": "8.3.5",
+    "vitest": "5.1.0",
+    "vue-tsc": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}

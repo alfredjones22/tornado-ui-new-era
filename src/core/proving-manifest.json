@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/tornadocash/tornado-cli/378ddf8b8b92a4924037d7b64a94dbfd5a7dd6e8/build/circuits/",
+  "circuit": { "source": "tornado.json", "file": "proving/tornado-3ddd61dbff09caee.json.gz", "sha256": "3ddd61dbff09caeec82d8edde95c674a3c34f9e66b1fe9f2c8783e72fe536f98", "jsonBytes": 19474889 },
+  "key": { "source": "tornadoProvingKey.bin", "file": "proving/tornadoProvingKey-8e2d2f22beafb5a9.bin.gz", "sha256": "8e2d2f22beafb5a9666daebca57b13f8029c3656c65fcfbcc86e2418fa16a3af", "jsonBytes": 14522256 }
+}

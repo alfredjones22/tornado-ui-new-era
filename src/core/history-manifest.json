@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "chains": {
+    "1": {
+      "stateKey": "tornado-cash-state-1-1016476918593216659678085511611900461079531923729",
+      "sourceSha256": "bf91bef7493580cfc782b7f754c981f0726c8dc8112c478ed847f9794f2e2c4e",
+      "pools": {
+        "0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc": {
+          "file": "1/0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc-bef5b2902b75a21f.json.gz",
+          "sha256": "bef5b2902b75a21f6c4cd6efdc8b323801192bd557683efe9c7a378ec09baa69",
+          "jsonBytes": 49553175,
+          "gzipBytes": 8796209,
+          "fromBlock": "0x8b1d26",
+          "toBlock": "0x1924e8d",
+          "deposits": 76230,
+          "withdrawals": 69738
+        },
+        "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936": {
+          "file": "1/0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936-421565c76a137fb5.json.gz",
+          "sha256": "421565c76a137fb5695dc3bf7210c1f96858cc80fc7e681717893a1d981f42c6",
+          "jsonBytes": 64818937,
+          "gzipBytes": 11350072,
+          "fromBlock": "0x8b1fa9",
+          "toBlock": "0x1924e8d",
+          "deposits": 97260,
+          "withdrawals": 93000
+        },
+        "0x910cbd523d972eb0a6f4cae4618ad62622b39dbf": {
+          "file": "1/0x910cbd523d972eb0a6f4cae4618ad62622b39dbf-2c8a5d553a9d1328.json.gz",
+          "sha256": "2c8a5d553a9d1328b2897d8776813ce45c8f8a5bb93c176a5c5a1e0e28fa1754",
+          "jsonBytes": 53343703,
+          "gzipBytes": 9433160,
+          "fromBlock": "0x8b2018",
+          "toBlock": "0x1924e8d",
+          "deposits": 79469,
+          "withdrawals": 77087
+        },
+        "0xa160cdab225685da1d56aa342ad8841c3b53f291": {
+          "file": "1/0xa160cdab225685da1d56aa342ad8841c3b53f291-eb3560206871deca.json.gz",
+          "sha256": "eb3560206871decae5bd24c712f358bb3832cc99231836ae558f335969c77952",
+          "jsonBytes": 32860777,
+          "gzipBytes": 5730747,
+          "fromBlock": "0x8bcca7",
+          "toBlock": "0x1924e8d",
+          "deposits": 50037,
+          "withdrawals": 47167
+        },
+        "0xd4b88df4d29f5cedd6857912842cff3b20c8cfa3": {
+          "file": "1/0xd4b88df4d29f5cedd6857912842cff3b20c8cfa3-1b59042738ef049e.json.gz",
+          "sha256": "1b59042738ef049ebd45ff2aca5602cd56847892b9c997f87b3c8afc6995b8e6",
+          "jsonBytes": 298724,
+          "gzipBytes": 59170,
+          "fromBlock": "0x8b1fac",
+          "toBlock": "0x1924e8d",
+          "deposits": 482,
+          "withdrawals": 400
+        },
+        "0xfd8610d20aa15b7b2e3be39b396a1bc3516c7144": {
+          "file": "1/0xfd8610d20aa15b7b2e3be39b396a1bc3516c7144-26aec1fd8135c661.json.gz",
+          "sha256": "26aec1fd8135c6611d2b3fc13a7332c854227702bf1b39d6441cc57d23ca8baf",
+          "jsonBytes": 897515,
+          "gzipBytes": 162986,
+          "fromBlock": "0x8bccbd",
+          "toBlock": "0x1924e8d",
+          "deposits": 1384,
+          "withdrawals": 1256
+        },
+        "0x07687e702b410fa43f4cb4af7fa097918ffd2730": {
+          "file": "1/0x07687e702b410fa43f4cb4af7fa097918ffd2730-1179312088fa5cb9.json.gz",
+          "sha256": "1179312088fa5cb91a450cd3fbc47577892e80047964009a1d56a0add1f57669",
+          "jsonBytes": 2313948,
+          "gzipBytes": 416645,
+          "fromBlock": "0xb81cd7",
+          "toBlock": "0x1924e8d",
+          "deposits": 3447,
+          "withdrawals": 3341
+        },
+        "0x23773e65ed146a459791799d01336db287f25334": {
+          "file": "1/0x23773e65ed146a459791799d01336db287f25334-d18a56bd73c40e90.json.gz",
+          "sha256": "d18a56bd73c40e90184b1c1623f1b6a6b9e65f2a23900d0a4a077fd237bfd371",
+          "jsonBytes": 2983134,
+          "gzipBytes": 510037,
+          "fromBlock": "0xb81d00",
+          "toBlock": "0x1924e8d",
+          "deposits": 4415,
+          "withdrawals": 4346
+        },
+        "0x22aaa7720ddd5388a3c0a3333430953c68f1849b": {
+          "file": "1/0x22aaa7720ddd5388a3c0a3333430953c68f1849b-44be6b3fbd127143.json.gz",
+          "sha256": "44be6b3fbd127143a8bcf0ba6fefa6622145cd06ed31512c634c6052bfa98bfa",
+          "jsonBytes": 3861,
+          "gzipBytes": 1235,
+          "fromBlock": "0x8bccd2",
+          "toBlock": "0x1924e8d",
+          "deposits": 5,
+          "withdrawals": 3
+        },
+        "0x03893a7c7463ae47d46bc7f091665f1893656003": {
+          "file": "1/0x03893a7c7463ae47d46bc7f091665f1893656003-57c54062ff2e1196.json.gz",
+          "sha256": "57c54062ff2e1196920b1fdf42d6d8ed3bbf00dfc6577167dacd380611f73798",
+          "jsonBytes": 76434,
+          "gzipBytes": 12502,
+          "fromBlock": "0xb828ad",
+          "toBlock": "0x1924e8d",
+          "deposits": 118,
+          "withdrawals": 118
+        },
+        "0x2717c5e28cf931547b621a5dddb772ab6a35b701": {
+          "file": "1/0x2717c5e28cf931547b621a5dddb772ab6a35b701-1036b14a6bdfe4a1.json.gz",
+          "sha256": "1036b14a6bdfe4a1a84dd34f2d453a4cb2a8617b6d0eabaceba653972bfc558a",
+          "jsonBytes": 58544,
+          "gzipBytes": 10094,
+          "fromBlock": "0xb82316",
+          "toBlock": "0x1924e8d",
+          "deposits": 87,
+          "withdrawals": 85
+        },
+        "0xd21be7248e0197ee08e0c20d4a96debdac3d20af": {
+          "file": "1/0xd21be7248e0197ee08e0c20d4a96debdac3d20af-2a93ef73809b938e.json.gz",
+          "sha256": "2a93ef73809b938e8efa80f037b7f8b5014513de9a5b9713407177973ea22c79",
+          "jsonBytes": 77659,
+          "gzipBytes": 13282,
+          "fromBlock": "0xb81d05",
+          "toBlock": "0x1924e8d",
+          "deposits": 114,
+          "withdrawals": 114
+        },
+        "0xd96f2b1c14db8458374d9aca76e26c3d18364307": {
+          "file": "1/0xd96f2b1c14db8458374d9aca76e26c3d18364307-66bedf03c46cc430.json.gz",
+          "sha256": "66bedf03c46cc430174f0a261d6fdece0013cb6c62974656d553f23ea233ef29",
+          "jsonBytes": 252444,
+          "gzipBytes": 49170,
+          "fromBlock": "0x8bcce6",
+          "toBlock": "0x1924e8d",
+          "deposits": 397,
+          "withdrawals": 351
+        },
+        "0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d": {
+          "file": "1/0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d-4100c02b9561f020.json.gz",
+          "sha256": "4100c02b9561f0200fa6b742d59b521d4511d3946cb63592d722c50d6e33e047",
+          "jsonBytes": 620315,
+          "gzipBytes": 111373,
+          "fromBlock": "0x8bcced",
+          "toBlock": "0x1924e8d",
+          "deposits": 934,
+          "withdrawals": 908
+        },
+        "0x169ad27a470d064dede56a2d3ff727986b15d52b": {
+          "file": "1/0x169ad27a470d064dede56a2d3ff727986b15d52b-56bdcc8781667050.json.gz",
+          "sha256": "56bdcc878166705032b6ddda714c068d1f4a5aeaee6ceac718e287fe0ee5b0cf",
+          "jsonBytes": 636161,
+          "gzipBytes": 120145,
+          "fromBlock": "0x8bcd15",
+          "toBlock": "0x1924e8d",
+          "deposits": 997,
+          "withdrawals": 893
+        },
+        "0x0836222f2b2b24a3f36f98668ed8f0b38d1a872f": {
+          "file": "1/0x0836222f2b2b24a3f36f98668ed8f0b38d1a872f-c5e282ed35f9dcfe.json.gz",
+          "sha256": "c5e282ed35f9dcfe20ca32b5766665b4506eab4ad44a7dfcccb33363822c82e8",
+          "jsonBytes": 1432030,
+          "gzipBytes": 244712,
+          "fromBlock": "0x8bcd1c",
+          "toBlock": "0x1924e8d",
+          "deposits": 2135,
+          "withdrawals": 2105
+        },
+        "0x178169b423a011fff22b9e3f3abea13414ddd0f1": {
+          "file": "1/0x178169b423a011fff22b9e3f3abea13414ddd0f1-cf034d1805d4fe72.json.gz",
+          "sha256": "cf034d1805d4fe721dc4f9d6423480d8aa43a09936e50e270a33e6037fc6ee30",
+          "jsonBytes": 105123,
+          "gzipBytes": 19465,
+          "fromBlock": "0xb822c9",
+          "toBlock": "0x1924e8d",
+          "deposits": 156,
+          "withdrawals": 153
+        },
+        "0x610b717796ad172b316836ac95a2ffad065ceab4": {
+          "file": "1/0x610b717796ad172b316836ac95a2ffad065ceab4-17fc85e7b0dd86e4.json.gz",
+          "sha256": "17fc85e7b0dd86e4ceb65d4ff5c30ac543fa4ff8ec5c83bae36e7bfe943d0b04",
+          "jsonBytes": 700734,
+          "gzipBytes": 108935,
+          "fromBlock": "0xb81f5c",
+          "toBlock": "0x1924e8d",
+          "deposits": 1042,
+          "withdrawals": 1039
+        },
+        "0xbb93e510bbcd0b7beb5a853875f9ec60275cf498": {
+          "file": "1/0xbb93e510bbcd0b7beb5a853875f9ec60275cf498-c40f49fc5e765bf5.json.gz",
+          "sha256": "c40f49fc5e765bf5b89ac1ee5b610a16ec7ae20019df1b1342b34fafe9fe0e93",
+          "jsonBytes": 806030,
+          "gzipBytes": 128430,
+          "fromBlock": "0xb82307",
+          "toBlock": "0x1924e8d",
+          "deposits": 1202,
+          "withdrawals": 1194
+        },
+        "0x199112eb461ea7eec1d75b33343542e1d069b41c": {
+          "file": "1/0x199112eb461ea7eec1d75b33343542e1d069b41c-306b948d71dbe716.json.gz",
+          "sha256": "306b948d71dbe71685bdb9de09dc619c7ba04a8b1aac9a1fdf166184d5d67500",
+          "jsonBytes": 10230,
+          "gzipBytes": 2373,
+          "fromBlock": "0x18fc3c4",
+          "toBlock": "0x1924e8d",
+          "deposits": 20,
+          "withdrawals": 8
+        },
+        "0x398971a7ae0fed4ae435f353ef00d3d4e4c18fd4": {
+          "file": "1/0x398971a7ae0fed4ae435f353ef00d3d4e4c18fd4-1a1b06131849e5ef.json.gz",
+          "sha256": "1a1b06131849e5ef2f645cd901788e0dbd91365d772ef3c63cba3570e3deaa50",
+          "jsonBytes": 2101,
+          "gzipBytes": 873,
+          "fromBlock": "0x18fc3c4",
+          "toBlock": "0x1924e8d",
+          "deposits": 3,
+          "withdrawals": 0
+        },
+        "0xf22487b84a618192aa68c0e1da24e9bbd892f774": {
+          "file": "1/0xf22487b84a618192aa68c0e1da24e9bbd892f774-35d8e1f4715f84d0.json.gz",
+          "sha256": "35d8e1f4715f84d0433d327484ff9b8b7e973f223b6aa24b90231a0bae093c87",
+          "jsonBytes": 1103,
+          "gzipBytes": 580,
+          "fromBlock": "0x18fc3c4",
+          "toBlock": "0x1924e8d",
+          "deposits": 0,
+          "withdrawals": 0
+        },
+        "0x74185a3f30b873c0ce1f4257298d1cda61be2f9f": {
+          "file": "1/0x74185a3f30b873c0ce1f4257298d1cda61be2f9f-3b7e6d049028c9e9.json.gz",
+          "sha256": "3b7e6d049028c9e96c348d0696030918f53feb74a41aa138b3cd52c2dee14b98",
+          "jsonBytes": 1104,
+          "gzipBytes": 582,
+          "fromBlock": "0x18fc3c4",
+          "toBlock": "0x1924e8d",
+          "deposits": 0,
+          "withdrawals": 0
+        },
+        "0xc11197f71c7730c8b5db7c84191e07575f1db896": {
+          "file": "1/0xc11197f71c7730c8b5db7c84191e07575f1db896-82913a5a502be148.json.gz",
+          "sha256": "82913a5a502be1481b5fd0e53a9d75734bb5d393d78be1bfc114ef3a4e4c9006",
+          "jsonBytes": 1105,
+          "gzipBytes": 583,
+          "fromBlock": "0x18fc3c7",
+          "toBlock": "0x1924e8d",
+          "deposits": 0,
+          "withdrawals": 0
+        }
+      }
+    },
+    "11155111": {
+      "stateKey": "tornado-cash-state-11155111-447664927873626138772898946646079239273904189887",
+      "sourceSha256": "8f2c83b62ca7b2d331905ec6d38a05bebdf5e279c5412c6d873fa8ffa021decc",
+      "pools": {
+        "0x8c4a04d872a6c1be37964a21ba3a138525dff50b": {
+          "file": "11155111/0x8c4a04d872a6c1be37964a21ba3a138525dff50b-ceb6fa3aadea3bf4.json.gz",
+          "sha256": "ceb6fa3aadea3bf43e048951c24027536035f618e2969f6118e4bb69aaed2280",
+          "jsonBytes": 1965954,
+          "gzipBytes": 320553,
+          "fromBlock": "0x555d20",
+          "toBlock": "0xb86bd8",
+          "deposits": 3433,
+          "withdrawals": 2602
+        },
+        "0x8cc930096b4df705a007c4a039bdfa1320ed2508": {
+          "file": "11155111/0x8cc930096b4df705a007c4a039bdfa1320ed2508-d8b706c462583256.json.gz",
+          "sha256": "d8b706c4625832564953bb9ef376007595c0db7b80e02851ac8356aedd792420",
+          "jsonBytes": 114899,
+          "gzipBytes": 22195,
+          "fromBlock": "0x555d21",
+          "toBlock": "0xb86bd8",
+          "deposits": 205,
+          "withdrawals": 150
+        },
+        "0x6921fd1a97441dd603a997ed6ddf388658daf754": {
+          "file": "11155111/0x6921fd1a97441dd603a997ed6ddf388658daf754-364c228163859be7.json.gz",
+          "sha256": "364c228163859be7c062f71fa902ee16b9af951b5f07de3fc84ff81cab2130ec",
+          "jsonBytes": 61416,
+          "gzipBytes": 11453,
+          "fromBlock": "0x555d26",
+          "toBlock": "0xb86bd8",
+          "deposits": 132,
+          "withdrawals": 61
+        },
+        "0x0e999c5285141ccb6dfae68a0921f37abd3e6a87": {
+          "file": "11155111/0x0e999c5285141ccb6dfae68a0921f37abd3e6a87-6ac12c3cdf215493.json.gz",
+          "sha256": "6ac12c3cdf21549332f6e27cdb848ef42d2d4d65111d18bb30e69b71cbdb2d62",
+          "jsonBytes": 27762,
+          "gzipBytes": 5162,
+          "fromBlock": "0xb65415",
+          "toBlock": "0xb86bd8",
+          "deposits": 65,
+          "withdrawals": 19
+        },
+        "0x9480be3964642efcd6cebdb3570db8dc0f788908": {
+          "file": "11155111/0x9480be3964642efcd6cebdb3570db8dc0f788908-976c3b43d178bae6.json.gz",
+          "sha256": "976c3b43d178bae668290c111fc406c0d139f1ecb5a2dafdce3917dfbc8e7bb6",
+          "jsonBytes": 8488,
+          "gzipBytes": 2065,
+          "fromBlock": "0xb65416",
+          "toBlock": "0xb86bd8",
+          "deposits": 15,
+          "withdrawals": 7
+        },
+        "0x83091415b54d764e215153ff54b36ccd44122e6e": {
+          "file": "11155111/0x83091415b54d764e215153ff54b36ccd44122e6e-9d67d34e77947ebc.json.gz",
+          "sha256": "9d67d34e77947ebc26d1e5e3eb6a2632c2a8dafe0d12bc18b12bfc51df958f63",
+          "jsonBytes": 6490,
+          "gzipBytes": 1761,
+          "fromBlock": "0xb65418",
+          "toBlock": "0xb86bd8",
+          "deposits": 8,
+          "withdrawals": 8
+        },
+        "0x7ee90edc51c3739af3ee277e09ade3f3d6bad4af": {
+          "file": "11155111/0x7ee90edc51c3739af3ee277e09ade3f3d6bad4af-16c70734c312c18a.json.gz",
+          "sha256": "16c70734c312c18a7b72d40a8f021f0e796e9d06a702caf7142720eb81c0d0af",
+          "jsonBytes": 1119,
+          "gzipBytes": 592,
+          "fromBlock": "0xb65419",
+          "toBlock": "0xb86bd8",
+          "deposits": 0,
+          "withdrawals": 0
+        },
+        "0x8d10d506d29fc62abb8a290b99f66db27fc43585": {
+          "file": "11155111/0x8d10d506d29fc62abb8a290b99f66db27fc43585-4c2d8491cca8b9f4.json.gz",
+          "sha256": "4c2d8491cca8b9f473937e801eef873f8f56ddb05f30f3fc92f6078c27ad3cd7",
+          "jsonBytes": 19126,
+          "gzipBytes": 4161,
+          "fromBlock": "0x555d22",
+          "toBlock": "0xb86bd8",
+          "deposits": 40,
+          "withdrawals": 18
+        },
+        "0x3d1c943dfb2c8d9905b0da0afd18615915ff343a": {
+          "file": "11155111/0x3d1c943dfb2c8d9905b0da0afd18615915ff343a-9d8b31c456aa03bd.json.gz",
+          "sha256": "9d8b31c456aa03bde6bfd633f686e9e939769940b9b25330ce0f7bccf6720307",
+          "jsonBytes": 1120,
+          "gzipBytes": 592,
+          "fromBlock": "0xb6541a",
+          "toBlock": "0xb86bd8",
+          "deposits": 0,
+          "withdrawals": 0
+        }
+      }
+    }
+  }
+}

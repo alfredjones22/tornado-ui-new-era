@@ -1,0 +1,137 @@
+{
+  "mnemonic": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon art",
+  "source": "kohaku-cli makeKeystore / SignatureSecretManager, accountIndex 0, public zero-entropy BIP-39 test vector only",
+  "groups": [
+    {
+      "chainId": 1,
+      "symbol": "ETH",
+      "denominations": [
+        "0.01",
+        "1",
+        "0.1",
+        "1"
+      ],
+      "notes": [
+        {
+          "nonce": 0,
+          "denomination": "0.01",
+          "pool": "0x199112eb461ea7eec1d75b33343542e1d069b41c",
+          "commitment": "0x2b0157e9206b3a9fc60465b9412e1390f1dcc02719231b30c6543ed273639600",
+          "nullifierHash": "0x205b9f8c18eaa3b4827ac12f3898fb5b90d3a28de7e95ddda4e428a52556c9b8",
+          "raw": "tornado-eth-0.01-1-0x33567fb6463d588b0ef7ff2d415130e0d91059781005f504671ddc3f03c4adc8b873cfa627a16e46d1f33b81d9c7e86772a083575ccccb9104ed77057b53"
+        },
+        {
+          "nonce": 1,
+          "denomination": "1",
+          "pool": "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936",
+          "commitment": "0x270b17f82575e4a5fb331e445c8f316d6b335ad47a19c631c814cd99ba5e008b",
+          "nullifierHash": "0x11b6247391a5bb391f49af6544451f7f70bc8fcf48cf655b49b7549ad2a50603",
+          "raw": "tornado-eth-1-1-0x38ba0d601404fd62799e1f48f412425062db944406ad748338cdf17cc91e1b0e52370aca05d3731e2f6e278d0fb871ecedf5a9de9a20969a636b16acde90"
+        },
+        {
+          "nonce": 2,
+          "denomination": "0.1",
+          "pool": "0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc",
+          "commitment": "0x2aef24e05387c311918a632c457a6da02cf7453fe83aa87ea80c48bb08fd9741",
+          "nullifierHash": "0x03974a7ffed215e683f06279e6badf83d56ce888321f3e8b2682fb1cb97f166d",
+          "raw": "tornado-eth-0.1-1-0x7f231f55aa7f9ee7656f94a0d9baae11e9c28a8815e20923a5ecaab130e96a554d237a2fc43f77d4bfcb52f00a40ccf6bf1bfb91125e4fa1c313112ba81f"
+        },
+        {
+          "nonce": 3,
+          "denomination": "1",
+          "pool": "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936",
+          "commitment": "0x11df2576a71b3861893c4667f3385039cbdac3872668c7cc3b2e94dacc443290",
+          "nullifierHash": "0x18b65b0205598fc086326f9a5b16187ddc7160849fc653ff5392941d9065f259",
+          "raw": "tornado-eth-1-1-0x1eaa86fc5474b3fadce48de19379918000813797f565fcb6b22352e16da27e11c771a01bf3c6d69be9ae77b33b31639487bea29e0a8389282efa9cedb03a"
+        }
+      ]
+    },
+    {
+      "chainId": 11155111,
+      "symbol": "ETH",
+      "denominations": [
+        "0.01",
+        "1",
+        "3"
+      ],
+      "notes": [
+        {
+          "nonce": 0,
+          "denomination": "0.01",
+          "pool": "0x0e999c5285141ccb6dfae68a0921f37abd3e6a87",
+          "commitment": "0x03eb48a9ece2674c1b039227e0896945613f3fb41b596990e19f09bd1d07c3de",
+          "nullifierHash": "0x28d6b1741bd7e7acd1e9821f466f98c50138e5b54a0d69b4d1598e5166bdb12f",
+          "raw": "tornado-eth-0.01-11155111-0x9b02b2dbded9a53a3f2a3928e327df52421c324467b71f56c90bc501b354bf83bbd4d29ff7a85afa666679894da9e25e136e804f4d9a59e9a1f9bb2f406e"
+        },
+        {
+          "nonce": 1,
+          "denomination": "1",
+          "pool": "0x8cc930096b4df705a007c4a039bdfa1320ed2508",
+          "commitment": "0x12bbf857aca63e541d4395118d96fc804541bb01be4475e691aad46aa8bcd1b5",
+          "nullifierHash": "0x1b3b46e7ed2045e9abee28f2f4005ab7ee8ee0ca3a53712f66b110cb3534e827",
+          "raw": "tornado-eth-1-11155111-0x9fc8fc982cdff4b564baaeda37e5364621e936440a09a9cf33b5cca7473a053ca7f2d819399595eb8cddaf50b033472eebedc5e4604a98d8a8aa546f7196"
+        },
+        {
+          "nonce": 2,
+          "denomination": "3",
+          "pool": "0x7ee90edc51c3739af3ee277e09ade3f3d6bad4af",
+          "commitment": "0x0d2843263b0ab72a7e3abdd2b47669260fba7703b927a6d0a9079482f4ab2089",
+          "nullifierHash": "0x15bd7e17ffefe33d67d069c393a931941b691d60d0c2b950e18cf62eba0f4f47",
+          "raw": "tornado-eth-3-11155111-0xc469370510bd651ecf50554c4b0d689b16ffde5102a71f9736ed283617ac793d058dca41cd44cd46c4135f28a5c03ffd9f8272c4dad1ac91839eb8dcd509"
+        }
+      ]
+    },
+    {
+      "chainId": 1,
+      "symbol": "USDC",
+      "denominations": [
+        "100",
+        "1000"
+      ],
+      "notes": [
+        {
+          "nonce": 0,
+          "denomination": "100",
+          "pool": "0xd96f2b1c14db8458374d9aca76e26c3d18364307",
+          "commitment": "0x0633c21978475e87bb2f16ad01ddcd960c55369ee8a6067fc48073fb31f5c3c3",
+          "nullifierHash": "0x0428e62097eba16ce7e24072dab721d57dfd266ba3ed42a7205d27831bf6c972",
+          "raw": "tornado-usdc-100-1-0x54199bc304e028c7047551ed3ec05a56407fc9c468457974e4d308a37e271bfaf8d1657d8097030e1d197db706eb8314e88425751e9d041ec24ac5015416"
+        },
+        {
+          "nonce": 1,
+          "denomination": "1000",
+          "pool": "0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d",
+          "commitment": "0x1fc4e7a49f762bcefd33f07e4d28f013e2dc7f1377fb76413ec82ca0784b3880",
+          "nullifierHash": "0x0786b5f932fdafadace2e16ee77644f3d97967b963026023943755efb4d5ecef",
+          "raw": "tornado-usdc-1000-1-0xccef9a9d0066adfe6076c8537e5afae312eddf83e3729f0e1a4f40aae30eff362a928ec67fbf539b56ff63026a3406849cf6afaf83229ebc1660f4d1ae8a"
+        }
+      ]
+    },
+    {
+      "chainId": 11155111,
+      "symbol": "DAI",
+      "denominations": [
+        "100",
+        "100"
+      ],
+      "notes": [
+        {
+          "nonce": 0,
+          "denomination": "100",
+          "pool": "0x6921fd1a97441dd603a997ed6ddf388658daf754",
+          "commitment": "0x223eaa5eb890434c6e5ce8aa81cafce4ac35a3fdad1daec042967d202c81aeb7",
+          "nullifierHash": "0x135745575e88a842f2ebc146f5f8f6882385872ff1db4b004dbb129628c80307",
+          "raw": "tornado-dai-100-11155111-0xaf9821bf72a6e97c0e96a85b74d8cc90f778578fa8dc123e5b65d39b4dce32614462c3d242b76af4efdc39c7ba978bc85aab27b9a5d639becf1d20c8299b"
+        },
+        {
+          "nonce": 1,
+          "denomination": "100",
+          "pool": "0x6921fd1a97441dd603a997ed6ddf388658daf754",
+          "commitment": "0x0a442ab51350412c449d0c9b22e781bfab5c821c962a31c7fd5cf0314f874895",
+          "nullifierHash": "0x130a095ba132d35e7a6a3af247d15b727fa7a20eaa82d1d1972e8e0efebe6ac4",
+          "raw": "tornado-dai-100-11155111-0x396841d42864a43d0912e9c18930b33c2d1649e4da0b9e8dbf501e6b7144c71953bd4bb1175eebe25f27585d895414da1a7daa2512b966f5a75673f252a9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tornado-saga-proxy",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-08",
+  "workers_dev": false,
+  "routes": [{ "pattern": "saga.0000000000.org", "custom_domain": true }],
+  "observability": { "enabled": false }
+}
